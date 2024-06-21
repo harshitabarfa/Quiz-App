@@ -464,6 +464,12 @@ footer button.show {
   }
 }
 
+@media screen and (max-width: 420px){
+  .info-box{
+    margin-top: 66%;
+  }
+}
+
 @media screen and (max-width: 414px) {
   .info-box {
     margin-top: 105%;
