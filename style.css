@@ -465,8 +465,11 @@ footer button.show {
 }
 
 @media screen and (max-width: 420px){
+  .start-btn{
+    margin-top: 60%;
+  }
   .info-box{
-    margin-top: 66%;
+    margin-top: 62%;
   }
 }
 
